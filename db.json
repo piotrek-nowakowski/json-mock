@@ -1,10 +1,10 @@
 {
-    reservations: [
-        { id: '1681a6b7-f08d-4924-946e-f1560944d14d', spotId: '3da7e046-08d1-4885-ae5d-f3ed14c6c0c7', startDate: '2020-12-17', endDate: '2020-12-18', user: {id: 'd27acf2a-0543-4746-8885-586eb83ae8d3', displayName: 'Bolec'}},
-        { id: '61f1a9b9-5fa4-4a6d-a3f0-c1c2cae28c05', spotId: '3da7e046-08d1-4885-ae5d-f3ed14c6c0c7', startDate: '2020-11-30', endDate: '2020-12-01', user: {id: '5fb27a49-a572-4347-ba37-4af7ac231070', displayName: 'Miodzio'}}
+    "reservations": [
+        { "id": "1681a6b7-f08d-4924-946e-f1560944d14d", "spotId": "3da7e046-08d1-4885-ae5d-f3ed14c6c0c7", "startDate": "2020-12-17", "endDate": "2020-12-18", "user": {"id": "d27acf2a-0543-4746-8885-586eb83ae8d3", "displayName": "Bolec"}},
+        { "id": "61f1a9b9-5fa4-4a6d-a3f0-c1c2cae28c05", "spotId": "3da7e046-08d1-4885-ae5d-f3ed14c6c0c7", "startDate": "2020-11-30", "endDate": "2020-12-01", "user": {"id": "5fb27a49-a572-4347-ba37-4af7ac231070", "displayName": "Miodzio"}}
     ],
-    spots: [
-        {id: '3da7e046-08d1-4885-ae5d-f3ed14c6c0c7', displayName: 'Zielony Pomost'},
-        {id: 'db371c69-4bac-4630-b6ed-f2ed3812bbe5', displayName: 'Zatoczka'}
+    "spots": [
+        {"id": "3da7e046-08d1-4885-ae5d-f3ed14c6c0c7", "displayName": "Zielony Pomost"},
+        {"id": "db371c69-4bac-4630-b6ed-f2ed3812bbe5", "displayName": "Zatoczka"}
     ]
 } 
